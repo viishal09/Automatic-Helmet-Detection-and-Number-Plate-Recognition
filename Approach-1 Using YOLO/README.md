@@ -15,4 +15,6 @@ Step 3 - Move all the files to one folder.
 
 Step 4 - Change the path of model and YOLO pre-trained and weighted in detect.py file.
 
-Step 5 - Run detect.py file.
+Step 5 - Also change the video input file and output.avi file.
+
+Step 6 - Run detect.py file.
