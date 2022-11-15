@@ -7,4 +7,5 @@ Our main motive behind AUtomatic Helmet Detection and Number Plate Recognition w
 I have implemented this project by using two approach.
 
 Approach 1 - YOLO (You Only Look Once) Deep Learning Technique.
+
 Approach 2 - CNN (Convolutional Neural Network) Deep Learning Technique.
